@@ -1,8 +1,5 @@
-The New elementary.io
+The New Website
 ================
-
-[![Build Status](https://travis-ci.org/elementary/website.svg?branch=master)](https://travis-ci.org/elementary/website)
-[![Translation status](https://l10n.elementary.io/widgets/website/-/svg-badge.svg)](https://l10n.elementary.io/engage/website/?utm_source=widget)
 
 A focused, minimum viable product (hence MVP) for a website that accompanied the release of elementary OS Freya.
 
@@ -49,7 +46,6 @@ Templating System
 Contributing
 ============
 
-See guidelines for [coding](https://github.com/elementary/website/blob/master/.github/CONTRIBUTING.md) and [translating](https://github.com/elementary/website/blob/master/TRANSLATE.md).
 
 Security
 ========
